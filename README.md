@@ -21,9 +21,9 @@
 * [Stake](#stake-statistic)
 * [Total Supply](#total-supply-statistic)
 
-A HTMLCOIN blockchain REST and web socket API service for [HTMLCOINCORE Node](https://github.com/HTML5/htmlcoincore-node).
+A HTMLCOIN blockchain REST and web socket API service for [HTMLCOINCORE Node](https://github.com/HTMLCOIN/htmlcoincore-node).
 
-This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/HTML5/htmlcoin-explorer.
+This is a backend-only service. If you're looking for the web frontend application, take a look at https://github.com/HTMLCOIN/htmlcoin-explorer.
 
 ## Getting Started
 
